@@ -1,2 +1,2 @@
 # arch-setup-i3
-dotfiles for my i3wm setup
+dotfiles for my current arch setup
