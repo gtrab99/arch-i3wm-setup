@@ -1,0 +1,61 @@
+#Conky By Jesse Avalos See me on Eye candy Linux (Google +) for more conkys.
+background yes
+update_interval 5
+
+cpu_avg_samples 2
+net_avg_samples 2
+temperature_unit celsius
+
+double_buffer yes
+no_buffers yes
+text_buffer_size 2048
+minimum_size 550 550
+maximum_width 650
+own_window yes
+own_window_type normal
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_argb_visual yes
+own_window_argb_value 0
+
+border_inner_margin 0
+border_outer_margin 0
+
+# — SIZE — #
+minimum_size 300 115
+maximum_size 300 115
+
+# — ALIGNMENT — #
+alignment bottom_right
+gap_x 100
+gap_y 100
+
+# — GRAPHIC — #
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+
+# — TEXT — #
+use_xft yes
+xftfont Laconic:size=16
+xftalpha 0.8
+uppercase no
+override_utf8_locale yes
+default_color ffffff
+
+# — LUA — #
+#lua_load 
+#lua_draw_hook_pre 
+
+# — Colors — #
+color1 ffb321
+
+own_window_argb_visual yes
+own_window_colour 000000
+own_window_argb_value 0
+TEXT
+${voffset -3}${offset 3}${font Orore:size=30}Q${voffset -15}${goto 36}${font}${font Laconic:size=16:condensed:bold}  Root${font}${goto 70}${voffset -12}${offset 35}${font Orore:size=30}Q${voffset -15}${font}${goto 100}${font Laconic:size=16:condensed:bold}       Home${font}
+${offset 11}${voffset 2}${fs_bar 3,23 /}${goto 28}${voffset -10}${offset 6}${font Sportrop:size=16:condensed:bold}$color1 ${fs_used_perc /}%$color${goto 70}${offset 43}${voffset 3}${fs_bar 3,23 /home}${goto 96}${voffset -3}${offset 10}$color1   ${fs_used_perc /home}%$color${font}
+${offset 5}${voffset 1}I/O${offset 10}${goto 38}»${goto 52}${color1}${offset 10}${diskio}${color}${alignr 2}${diskiograph 8,30}
+${offset 5}Temp${offset 30}${goto 38}${offset 20}»${goto 52}${color1}${offset 30}${hddtemp /dev/sda} °C 

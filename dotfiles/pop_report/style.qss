@@ -1,0 +1,7 @@
+border: 3px solid #ebdbb2;
+border-radius: 12px;
+background-color: #1d2021;
+color: #ebdbb2;
+font-family: Fira Code;
+font-size: 30px;
+padding: 25px;

@@ -1,0 +1,19 @@
+spacing = 2
+padding = 1
+hide_ascii = true
+separator = "->"
+key_color = "#689d6a"
+separator_color = "#d79921"
+
+[palette]
+glyph =  "  "
+visible = true
+
+[box]
+title = " Arch Linux "
+visible = true
+border = "rounded"
+
+[box.inner_margin]
+x = 1
+y = 1
