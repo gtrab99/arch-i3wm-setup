@@ -1,5 +1,5 @@
 # Description
-Using this to store the dotfiles for my i3 setup, which I spent an embarassing amount of time on.
+Using this to save my current setup (i use arch btw), which I spent an embarassing amount of time on.
 
 ## Preview
-Here's what it looks like
+Here's what it looks like (or not?)
