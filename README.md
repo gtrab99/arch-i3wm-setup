@@ -1,5 +1,5 @@
 # Description
-Using this to save my current setup (i use arch btw), which I spent an embarassing amount of time on.
+Arch Linux Gruvbox Themed Setup (i3-polybar-rofi-picom)
 
 ## Tech Stack
 - i3wm
