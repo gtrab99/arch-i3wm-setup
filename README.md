@@ -29,3 +29,5 @@ Using this to save my current setup (i use arch btw), which I spent an embarassi
 ![Alt text](./preview/Screenshot_2022-08-26-26_1920x1080.png?raw=true "Screenshot 1")
 ### Windows
 ![Alt text](./preview/Screenshot_2022-08-26-30_1920x1080.png?raw=true "Screenshot 2")
+### Video
+To Do
