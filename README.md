@@ -31,4 +31,4 @@ Arch Linux Gruvbox Themed Setup (i3-polybar-rofi-picom)
 ### Windows
 ![Alt text](./preview/Screenshot_2022-08-26-15_1920x1080.png?raw=true "Screenshot 2")
 ### Video
-To Do
+2022-08-28-screen-capture.mkv
