@@ -1,5 +1,5 @@
 # Description
-Arch Linux Gruvbox Themed Setup (i3-polybar-rofi-picom)
+Arch Linux Gruvbox Themed Setup
 
 ## Tech Stack
 ### Main
