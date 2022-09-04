@@ -1,5 +1,5 @@
 # Description
-Arch Linux Gruvbox Themed Setup
+Arch Linux Gruvbox Theme
 
 ## Tech Stack
 ### Main
